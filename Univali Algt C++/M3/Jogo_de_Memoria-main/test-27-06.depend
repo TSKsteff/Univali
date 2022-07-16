@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657233988 source:c:\users\55479\onedrive\bureau\codeblock\test-27-06\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+
